@@ -1,4 +1,5 @@
-cron 47 15 * * * touch /home/mateo21/fichier.txt
+cron
 
-Seules les deux premières valeurs sont précisées : les minutes et les heures. Chaque fois qu'il est 15 h 47, la commande indiquée à la fin sera exécutée.
+#cron 47 15 * * * touch /home/mateo21/fichier.txt
 
+#Seules les deux premières valeurs sont précisées : les minutes et les heures. Chaque fois qu'il est 15 h 47, la commande indiquée à la fin sera exécutée.
