@@ -1,1 +1,2 @@
-ls -S [File]
+#!/bin/sh
+ls -lS $1
